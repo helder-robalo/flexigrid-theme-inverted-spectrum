@@ -1,4 +1,4 @@
-flexigrid-theme-inverted-spectrum
+Flexigrid for jQuery - Theme Inverted Spectrum
 =================================
 
 This is a theme for the Flexigrid for jQuery

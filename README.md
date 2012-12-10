@@ -9,7 +9,7 @@ HOW TO USE:
 1 - Copy to your project directory the content of CSS directory
 
 2 - On your main file (ex: index.html) instead to call the flexigrid css pack (ex: flexigrid-pack.css), import the CSS file:
-<link rel="stylesheet" type="text/css" href="../css/flexigrid-inverted-spectrum.css" />
+flexigrid-inverted-spectrum.css <link rel="stylesheet" type="text/css" href="../css/flexigrid-inverted-spectrum.css" />
 
 3 - That's all.
 
